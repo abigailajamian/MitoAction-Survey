@@ -9,7 +9,7 @@ The following summarizes key insights derived from Exploratory Data Analysis of 
 
 
 ## Issues With Initial Diagnosis
-It is statistically probable to be diagnosed with something else before being diagnosed with mitochondrial disease. 
+It is statistically probable to be diagnosed with something else before being correctly diagnosed with mitochondrial disease. 
 ![](figures/initialDiagnosedOther.svg)
 
 
@@ -22,6 +22,7 @@ Patients who were misdiagnosed responded with what they were incorrectly diagnos
 
 
 In addition, it seems that most survey respondents who were genetically tested to confirm their mitochondrial disease required some form of self advocating to get tested. 
+
 ![](figures/diagnosisAdvocacy.svg)
 
 
