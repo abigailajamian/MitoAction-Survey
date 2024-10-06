@@ -1,4 +1,4 @@
-# MitoAction-Survey
+# MitoAction Survey Analysis
 MitoAction is a nonprofit organization that advocates and supports people and their families with mitochondrial disease. To gain more information about patients and their families, MitoAction participants completed a survey that included questions about their disease, diagnosis, goodness of life, and thoughts on clinical trials. There were 158 respondents that completed this survey, with the majority being the patient themself.
 
 
