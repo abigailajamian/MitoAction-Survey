@@ -29,9 +29,7 @@ Finally, nearly all patients diagnosed were required to go to a specialized doct
 ![](figures/patientReferal.svg)
 
 
-<p style="font-weight: bold; font-size:125%;">
-It is easy to empathize with the survey respondents' frustration to get a diagnosis. Upon feeling symptoms, the typical participant is wrongly diagnosed, required in some way to self-advocate for their testing, and then required to go (likely through referral) to a specialist just to get a diagnosis test.
-</p>
+**It is easy to empathize with the survey respondents' frustration to get a diagnosis. Upon feeling symptoms, the typical participant is wrongly diagnosed, required in some way to self-advocate for their testing, and then required to go (likely through referral) to a specialist just to get a diagnosis test.**
 
 
 ## What do Participants Want from Clinical Trials?
@@ -49,10 +47,8 @@ Participants were asked what they would most like to ask a mitochondrial expert.
 ![](figures/askExpertWordCloud.svg)
 
 
-<p style="font-weight: bold; font-size:125%;">
-To get more participants for clinical trials, research organizations need to focus on treating symptoms of mitochondrial disease as well as improving the diagnosis process. Fatigue and muscle weakness should be the symptoms researches are most trying to treat. Finally, clinical trials that are addressing these issues need to be sure that they are clearly communicating these treatments up front.
-</p>
 
+**To get more participants for clinical trials, research organizations need to focus on treating symptoms of mitochondrial disease as well as improving the diagnosis process. Fatigue and muscle weakness should be the symptoms researches are most trying to treat. Finally, clinical trials that are addressing these issues need to be sure that they are clearly communicating these treatments up front.**
 
 ## Why is There Low Participation in Clinical Trials?
 Participants responded that the main reasons they would NOT participate in clinical trials are fear of side effects, travel requirements to get to the trial, and being unaware of clinical trials.
@@ -67,7 +63,5 @@ Participants responded that they learned about clinical trials mainly through th
 ![](figures/learnAboutClinicalTrials.svg)
 
 
-<p style="font-weight: bold; font-size:125%;">
-Over half of the participants said that they were unaware of clinical trials. Most participants who knew about clinical trials learned about them through physicians or advocacy groups. Physicians and advocacy groups need to remain more up-to-date somehow on current mitochondrial clinical trials so they can share this info with people who have mitochondrial disease. These clinical trials need to the best of their abilities assure participants that there will be minimal side effects (if possible). Or maybe at least the adverse side effects of the trial will likely provide a higher quality of life compared to the nominal symptoms mitochondrial disease patients experience.
-</p>
+**Over half of the participants said that they were unaware of clinical trials. Most participants who knew about clinical trials learned about them through physicians or advocacy groups. Physicians and advocacy groups need to remain more up-to-date somehow on current mitochondrial clinical trials so they can share this info with people who have mitochondrial disease. These clinical trials need to the best of their abilities assure participants that there will be minimal side effects (if possible). Or maybe at least the adverse side effects of the trial will likely provide a higher quality of life compared to the nominal symptoms mitochondrial disease patients experience.**
 
